@@ -1,6 +1,6 @@
 # springboot-vue
 基于springboot-vue.js的购票系统
-## 电影访问地址：http://www.ambitionjun.com/
+## 电影访问地址：http://ambitionjun.com/
 ## 支持一下可以购买复联3那个电影，票价就是赞助价（很低的），谢谢大家！！！
 ## 前端截图：
 ![首页](https://user-images.githubusercontent.com/88479072/136167546-207b9686-0ec3-412d-971d-379d52c5d09d.png)
